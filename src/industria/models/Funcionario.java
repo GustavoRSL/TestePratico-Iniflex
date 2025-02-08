@@ -1,4 +1,4 @@
-package industria;
+package industria.models;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;

@@ -1,4 +1,4 @@
-package industria;
+package industria.models;
 
 import java.time.LocalDate;
 

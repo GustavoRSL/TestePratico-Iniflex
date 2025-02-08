@@ -1,6 +1,8 @@
-package industria;
+package industria.services;
+import industria.models.Funcionario;
 
 import java.math.BigDecimal;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;

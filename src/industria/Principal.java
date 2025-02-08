@@ -6,6 +6,11 @@ import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.Map;
 
+import industria.models.Funcionario;
+import industria.services.FuncionarioService;
+import industria.services.ImprimirFuncionarioService;
+import industria.services.SalarioService;
+
 
 public class Principal {	
 	public static void main(String[] args) {

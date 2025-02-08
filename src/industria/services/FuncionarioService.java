@@ -1,4 +1,5 @@
-package industria;
+package industria.services;
+import industria.models.Funcionario;
 
 import java.util.List;
 import java.util.Map;
